@@ -1,12 +1,12 @@
 # Delivery Duration Prediction
 
-**Machine learning project to predict food delivery durations | Python · Scikit-learn · XGBoost · LightGBM · TensorFlow**
+**Python · Scikit-learn · XGBoost · LightGBM · TensorFlow**
 
 ---
 
 ## Overview
 
-An end-to-end machine learning project built on historical DoorDash order data to predict `actual_total_delivery_duration` in seconds. The pipeline covers data cleaning, feature engineering, multicollinearity analysis, classical ML model comparison, and a deep learning baseline — with a two-stage modeling approach that first predicts prep time and reconstructs total duration.
+A machine learning project built on historical DoorDash order data to predict actual_total_delivery_duration in seconds, covering feature engineering, multicollinearity analysis, classical ML model comparison, and a deep learning baseline — with a two-stage modeling approach that first predicts prep time and reconstructs total duration.
 
 ---
 
